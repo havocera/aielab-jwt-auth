@@ -1,5 +1,5 @@
 {
-    "name": "thans/tp-jwt-auth",
+    "name": "aielab/aielab-jwt-auth",
     "description": "thinkphp jwt auth composer",
     "type": "library",
     "require": {
@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Thans",
-            "email": "ntbperst@outlook.com"
+            "name": "aielab",
+            "email": "aielab@163.com"
         }
     ],
     "autoload": {
